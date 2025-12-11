@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-cover-img: "/img/potatoFlowersBG.png"
+cover-img: "/assets/img/potatoFlowersBG.png"
 ---
 
 Please feel free to contact me by e-mail at middlestauthor[at]gmail[dot]com or using the links below.
