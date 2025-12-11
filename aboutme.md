@@ -2,7 +2,7 @@
 layout: page
 title: About
 subtitle:
-bigimg: "/assets/img/potatoFieldBG.jpeg"
+cover-img: "/assets/img/potatoFieldBG.jpeg"
 ---
 
 <a href="/assets/docs/agha_CV.pdf" target="_blank"><i class="fa fa-file-text fa-lg"></i></a> **Curriculum Vitae**

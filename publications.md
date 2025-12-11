@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-bigimg: "/assets/img/transposonBG.jpg"
+cover-img: "/assets/img/transposonBG.jpg"
 ---
 
 ### Preprints
