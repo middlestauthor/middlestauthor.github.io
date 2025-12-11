@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-bigimg: "/img/flowerBG.png"
+bigimg: "/assets/img/flowerBG.png"
 ---
 
 <p align="justify">

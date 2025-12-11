@@ -2,10 +2,10 @@
 layout: page
 title: About
 subtitle:
-bigimg: "/img/potatoFieldBG.jpeg"
+bigimg: "/assets/img/potatoFieldBG.jpeg"
 ---
 
-<a href="/docs/agha_CV.pdf" target="_blank"><i class="fa fa-file-text fa-lg"></i></a> **Curriculum Vitae**
+<a href="/assets/docs/agha_CV.pdf" target="_blank"><i class="fa fa-file-text fa-lg"></i></a> **Curriculum Vitae**
 
 <p align="justify">
 Hello! I'm a Postdoc at Michigan State University in the lab of Emily Josephs. Broadly, I'm interested in using statistics, population genetics, and quantitative genetics to dissect the genetic basis of complex traits, the underlying evolutionary and demographic processes underpinning adaptive divergence between populations spanning large spatial and temporal scales, and how we can use this information to inform breeding and conservation efforts in the face of climate change and urbanization.</p>
