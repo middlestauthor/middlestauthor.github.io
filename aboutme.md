@@ -4,12 +4,6 @@ title: About
 subtitle:
 bigimg: "/img/potatoFieldBG.jpeg"
 ---
-<figure>
-<div style="float: right; padding-left: 25px; padding-bottom: 25px">
-	<img src="/img/mustard.png" width="300" alt="Sarah Turner">
-	<figcaption><i>An outing to the mustard museum</i></figcaption>
-</div>
-</figure>
 
 <a href="/docs/agha_CV.pdf" target="_blank"><i class="fa fa-file-text fa-lg"></i></a> **Curriculum Vitae**
 
