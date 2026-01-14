@@ -4,7 +4,7 @@ title: Contact
 cover-img: "/assets/img/potatoFlowersBG.png"
 ---
 
-Please feel free to contact me by e-mail at middlestauthor[at]gmail[dot]com or using the links below.
+Please feel free to contact me by e-mail at aghahus1[at]msu[dot]edu or using the links below.
 
 ## Physical address:
 Plant Biology Laboratories
